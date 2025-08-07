@@ -18,7 +18,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [TicTacToe Server](https://github.com/nttuananh2004/tictactoe-server) | Multiplayer TicTacToe using Java socket + MySQL | Java, MySQL, Sockets |
+| [TicTacToe Server](https://github.com/nttuananh2004/ticTacToe) | Multiplayer TicTacToe using Java socket + MySQL | Java, MySQL, Sockets |
 
 ---
 
