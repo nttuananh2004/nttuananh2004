@@ -1,6 +1,6 @@
-<h1 align="center">nttuananh2004</h1>
+<h1 align="center">NGUYỄN TRẦN TUẤN ANH</h1>
 <p align="center">
-  🐚 Hacker | 🎯 Bug Bounty | 🛡️ Pentest | 💻 CTF Learner
+   🎯 Bug Bounty | 🛡️ Pentest | 💻 CTF Learner
 </p>
 
 ---
