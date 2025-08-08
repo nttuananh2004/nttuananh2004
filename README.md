@@ -1,18 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&center=true&vCenter=true&width=800&height=60&lines=NGUYỄN+TRẦN+TUẤN+ANH" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">NGUYỄN TRẦN TUẤN ANH</h1>
 <p align="center">
-   🎯 Bug Bounty &nbsp;&nbsp;|&nbsp;&nbsp; 🛡️ Pentest &nbsp;&nbsp;|&nbsp;&nbsp; 💻 CTF Learner
+   🎯 Bug Bounty | 🛡️ Pentest | 💻 CTF Learner
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 Passionate about security research, bug bounty hunting, and real-world hacking.  
-- 💡 Exploring: IDOR, Auth Bypass, Logic Bugs, Smart Contract Exploits.  
-- 🎓 Studying Computer Science @ VGU.  
+- 🔭 Passionate about security research, bug bounty hunting, and real-world hacking.
+- 💡 Exploring: IDOR, Auth Bypass, Logic Bugs, Smart Contract Exploits.
+- 🎓 Studying Computer Science @ VGU.
 - 🛠️ Tools: Burp Suite, Linux, Wireshark, Python, Java, Postman.
 
 ---
@@ -27,9 +24,13 @@
 
 ### 🧰 Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,burpsuite,wireshark,python,java,mysql,vscode" />
-</p>
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6F00?style=flat&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
@@ -49,10 +50,5 @@
 
 - Email: [nttuananh2004@gmail.com](mailto:nttuananh2004@gmail.com)
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
-  <br />
-  <i>Keep hacking. Stay low, go slow.</i>
-</p>
+
